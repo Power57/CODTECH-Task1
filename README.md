@@ -10,6 +10,13 @@
 
 ### Project: SIMPLE CALCULATOR
 
+<img width="959" alt="Simple Calculator" src="https://github.com/user-attachments/assets/e264186e-f715-4540-8690-5438ead7c71d">
+
+
+
+
+
+
 ### Objective
 The objective of this project is to create a simple calculator using Java.It should prompt the user to enter two numbers and choose an operation (addition, subtraction, multiplication, division). Then, it should perform the selected operation and display the result to the user.
 
